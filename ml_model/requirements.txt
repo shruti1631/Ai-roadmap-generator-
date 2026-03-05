@@ -1,0 +1,3 @@
+# Requirements for training environment
+# (the web app has its own requirements)
+pickle
